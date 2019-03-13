@@ -1,8 +1,8 @@
 {
   "name": "neonspectrum/laravel",
   "type": "project",
-  "description": "The NeonSpectrum's Custom Laravel Boilerplate.",
-  "keywords": ["framework", "laravel", "neonspectrum"],
+  "description": "NeonSpectrum's Custom Laravel Boilerplate.",
+  "keywords": ["framework", "laravel", "neonspectrum", "custom"],
   "license": "MIT",
   "require": {
     "php": "^7.1.3",
